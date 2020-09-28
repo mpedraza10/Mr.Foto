@@ -1,4 +1,2 @@
 # Mr-Foto
-First alone project using HTML and CSS
-
-Also learning how to use git version control and github
+Mr. Robot Academy would be a company that teaches courses from beginners to advanced about software develepment including web develpment, mobile, desktop apps and more.
